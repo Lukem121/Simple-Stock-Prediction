@@ -1,4 +1,4 @@
-# Simple-Stock-Prediction
+# Machine learning Stock Prediction
 This basic machine learning (LSTM) project has been adapted to predict the stock price of Tesla. Please remember past performance is not a guide to future returns. The prediction made is not to be trusted to make any real financial decisions.
 - The blue points represent the training data
 - The red points represent the testing data
